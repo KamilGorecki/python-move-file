@@ -38,5 +38,5 @@ try:
     newfolder1.start_watcher()
 
 except KeyboardInterrupt:
-    print('It is done!')
+    print('\nIt is done!')
     newfolder1.terminate()
